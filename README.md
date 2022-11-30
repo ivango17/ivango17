@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on using code to problem solve Rosalind challenges
 
-- 🌱 I’m currently learning **python and will begin learning C++ soon**
+- 🌱 I’m currently learning **python and will soon begin learning C++**
 
 - 👯 I’m looking to collaborate on **data-science projects**
 
