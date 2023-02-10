@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian VanGordon</h1>
-- 🔭 I’m currently working on **to solve Rosalind challenges**
+- 🔭 I’m currently working on **solving Rosalind challenges**
 
 - 🌱 I’m currently learning **python and C++**
 
