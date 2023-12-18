@@ -19,4 +19,4 @@
 
 ## Bioinformatics Projects
 
-- [Bioinformatic_Challenges](./Bioinformatics_Challenges]
+- [Bioinformatic_Challenges](../../Bioinformatics_Challenges)
