@@ -20,7 +20,7 @@
 
 ### Bioinformatics Projects
 
-- [Bioinformatic_Challenges]([../../Bioinformatics_Challenges](https://github.com/ivango17/Bioinformatics_Challenges/tree/main)https://github.com/ivango17/Bioinformatics_Challenges/tree/main)
+- [Bioinformatic_Challenges](https://github.com/ivango17/Bioinformatics_Challenges)
 - [Deduper-ivango17](https://github.com/ivango17/Deduper-ivango17)
 - [QAA](https://github.com/ivango17/QAA)
 - [Demultiplex](https://github.com/ivango17/QAA)
