@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian VanGordon</h1>
-- 🔭 I’m currently working working on my Master of Science at University of Oregon
+- 🔭 I’m currently working on my Master of Science at University of Oregon
 
 - 🌱 I’m currently learning **Python and R**
 
