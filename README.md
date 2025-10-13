@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian VanGordon</h1>
-- 🔭 I’m currently working on my Master of Science at University of Oregon
+- 🔭 I’m currently working on scalable machine learning approaches for single-cell multiomics analysis
 
 - 🌱 I’m currently learning **Python and R**
-
-- 💬 Ask me about **how to start coding**
 
 - 📫 How to reach me **email me or message me on LinkedIn**
 
